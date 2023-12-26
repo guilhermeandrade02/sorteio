@@ -1,0 +1,67 @@
+body{
+    background-color: rgba(0, 0, 0, 0.1);
+    background-image: url('/storage/fd40a043021290a01a8cb189d7ace374.jpg');
+    background-size: cover; 
+}
+
+.centralizar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.campos{
+    background-color: rgb(255, 255, 255);
+}
+.hidden {
+    display: none;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.custom-modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-dialog {
+     margin: 230px auto 0; 
+    width: 400px;
+    max-width: 80%;
+    height: auto;
+}
+
+.modal-content {
+    padding-top: 50%;
+    position: relative;
+}
+
+.modal-body {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.modal-foo {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.maiusculo-text {
+    text-transform: uppercase;
+}
+
+.color-text {
+    color: red;
+}
+  
+
+
+
+  
+ 
